@@ -1,9 +1,10 @@
 #name="paul"
-user_list =['ranu','shivani','jyoti','sakshi']
+user_list =['ranu','shivani','jyoti','sakshi',"magha"]
 print(user_list)#list print krne ke liye
 print(user_list[0])#indexing position se list ki value print krne ke liye
 print(user_list[1])
 print(user_list[2])
+print(user_list[3])
 print(user_list.append('Megha'))#list main value add krne ke liye
 print(user_list)
 print(user_list.remove('Megha'))#list se value delete krne ke liye
