@@ -62,3 +62,7 @@ mix_List=["ranu",2002,18,"malviya"]
 print(mix_List)
 
 print(user_list)
+
+print ("changes")
+
+print (changes)
