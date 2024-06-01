@@ -66,6 +66,9 @@ print(user_list)
 list1=[11,22,33,44]
 print(list1)
 
+listtt=[2,6,7,]
+print(listtt)
+
 
 
 
