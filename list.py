@@ -63,8 +63,11 @@ print(mix_List)
 
 print(user_list)
 
-print ("changes")
+list1=[11,22,33,44]
+print(list1)
 
-print (changes)
 
-gjjknjbcbjkmkml
+
+
+
+
